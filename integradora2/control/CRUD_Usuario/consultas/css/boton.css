@@ -1,0 +1,93 @@
+.boton_per{
+		color: #0099CC;
+		background: blue;
+		border: 2px solid black;
+		border-radius: 6px;
+		color: white;
+		padding: 8px 18px;
+		text-align: center;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		-web-transition-duration: 0.4s; /*Safari*/
+		transition-duration: 0.4s;
+		cursor: pointer;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+.boton_per:hover{
+		color: black;
+		background-color: skyblue;
+	}
+.boton_sal{
+		color: #0099CC;
+		background: blue;
+		border: 2px solid black;
+		border-radius: 6px;
+		color: white;
+		padding: 8px 18px;
+		text-align: center;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		-web-transition-duration: 0.4s; /*Safari*/
+		transition-duration: 0.4s;
+		cursor: pointer;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+.boton_sal:hover{
+		color: black;
+		background-color: skyblue;
+	}
+.boton{
+	padding: 6px;
+		font-weight: 400;
+		font-size: 15px;
+		background: linear-gradient(180deg, #65bce8 0%, #306485 100%) ;
+		transition: all .3s;
+		border-radius: 5px;
+		border: 2px solid white;
+	}
+.boton_perta{
+		color: #0099CC;
+		background: #5FB404;
+		border: 2px solid black;
+		border-radius: 6px;
+		color: white;
+		padding: 8px 18px;
+		text-align: center;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		-web-transition-duration: 0.4s; /*Safari*/
+		transition-duration: 0.4s;
+		cursor: pointer;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+.boton_perta:hover{
+		color: black;
+		background-color: #81F781;
+	}
+.boton_salta{
+		color: #0099CC;
+		background: #5FB404;
+		border: 2px solid black;
+		border-radius: 6px;
+		color: white;
+		padding: 8px 18px;
+		text-align: center;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		-web-transition-duration: 0.4s; /*Safari*/
+		transition-duration: 0.4s;
+		cursor: pointer;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+.boton_salta:hover{
+		color: black;
+		background-color: #81F781;
+	}

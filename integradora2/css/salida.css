@@ -1,0 +1,14 @@
+.boton_sal{
+		text-decoration: none;
+		padding: 10px;
+		font-weight: 600;
+		font-size: 20px;
+		color: #ffffff;
+		background-color: #FA5858;
+		border-radius: 6px;
+		border: 2px solid red;
+	}
+.boton_sal: hover{
+		color: red;
+		background-color: yellow;
+	}

@@ -1,0 +1,69 @@
+*{box-sizing: border-box;}
+
+form{
+	width: 300px;
+	padding: 16px;
+	border-radius: 10px;
+	margin: auto;
+	border: 2px solid black;
+	background-color: #ccc; 
+}
+form label{
+	width: 72px;
+	font-weight: bold;
+	display: inline-block;
+}
+form input[type="text"],
+form input[type="email"]{
+	width: 180px;
+	padding: 3px 10px;
+	border: 1px solid #f6f6f6;
+	border-radius: 3px;
+	background-color: #f6f6f6;
+	margin: 8px 0;
+	display: inline-block;
+}
+form input[type="password"],
+form input[type="number"],
+form input[type="tel"],
+form input[type="time"],
+form input[type="date"]
+{
+	width: 180px;
+	padding: 3px 10px;
+	border: 1px solid #f6f6f6;
+	border-radius: 3px;
+	background-color: #f6f6f6;
+	margin: 8px 0;
+	display: inline-block;
+}
+form input[type="submit"]{
+	width: 100%;
+	padding: 8px 16px;
+	margin-top: 32px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	display: block;
+	color: #fff;
+	background-color: #000;
+}
+form input[type="submit"]:hover{
+	cursor: pointer;
+}
+h1{
+text-shadow: 1px 1px 1px #666,
+	  	             3px 3px 8px black;
+
+}
+h2{
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+	color: grey;
+	font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Shcoolbook L", serif;
+}
+
+fondo{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
